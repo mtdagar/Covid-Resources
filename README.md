@@ -4,4 +4,4 @@ Covid-19 resources tracking app
 ##Currently under development
 
 # Screenshots
-![image](screenshots/Screenshot1.png)
+<img src="screenshots/Screenshot1.png" width=100 />
