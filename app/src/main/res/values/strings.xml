@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Covid Resources</string>
+    <string name="oxygen_cylinder">Oxygen Cylinder</string>
+    <string name="hospital_bed">Hospital Bed</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="vaccine">Vaccine</string>
+
 </resources>
